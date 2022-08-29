@@ -1,0 +1,17 @@
+section{
+    margin-top: 100px;
+}
+.row{
+    margin-right: 300px;
+    margin-top: 40px;
+}
+.row p{
+    font-weight: bolder;
+    width: 400px;
+}
+.container img{
+    width: 350px;
+}
+.container{
+    margin-left: 70px;
+}

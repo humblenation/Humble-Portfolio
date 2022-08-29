@@ -1,0 +1,33 @@
+.col{
+    background-color: #000000B2;
+    border-radius: 0.7rem;
+    margin: 0px 10px;
+    width: 350px;
+    height: 427px;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.col h5{
+    width: 162px;
+    color: white;
+    position: relative;
+    margin-left: 90px;
+    margin-bottom: 40px;
+    font-size: 23px;   
+}
+.col p{
+    width: 220px;
+    color: white;
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0.04em;
+    text-align: center;
+
+}
+.col a{
+    margin-top: 130px;
+    margin-left: 100px;
+}

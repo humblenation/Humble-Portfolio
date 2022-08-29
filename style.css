@@ -5,3 +5,20 @@
 .nav-head{
     font-weight: bolder;
 }
+.border{
+    border: 2px solid #00D160 !important;
+    border-radius: 50px;
+}
+.button a{
+    margin-left: -5px;
+}
+.name{
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.input{
+    padding-right: 200px;
+    border: 0;
+    border-radius: 50px;
+    outline: none;
+}
