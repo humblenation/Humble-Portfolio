@@ -10,8 +10,8 @@
     border-radius: 50px;
 }
 .button a{
-    /* position: absolute;
-    left: 510px; */
+    position: absolute;
+    /* left: 510px; */
 }
 .name{
     margin-top: 250px;
